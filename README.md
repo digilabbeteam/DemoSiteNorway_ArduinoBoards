@@ -1,6 +1,4 @@
-# DemoSiteNorway_ArduinoBoards
-
-# DigiLab - DemoSiteSpain DSS
+# DigiLab - DemoSiteNorway DSN
 
 ## Project Description
 
